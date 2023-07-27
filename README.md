@@ -2,7 +2,7 @@
 - Chrome Extension that automatically expands long Facebook posts(by clicking "See More")
 
 # Load locally
-**The extension is currently under review for publication on the Chrome Web Store. In the meantime, you can manually load the extension by following the steps below:** 
+**The extension is currently not published on the Chrome Web Store. You can manually load the extension by following the steps below:**   
 1. Clone this repository.
 2. Load the Extension in Chrome: 
     - Open Chrome.
